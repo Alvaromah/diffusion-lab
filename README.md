@@ -1,6 +1,6 @@
 # Stable Diffusion Notebooks
 
-Welcome to the StableD iffusion Notebooks repository! This is a collection of Jupyter notebooks designed to showcase the power and versatility of the Stable Diffusion model in generating AI art and processing images.
+Welcome to the Stable Diffusion Notebooks repository! This is a collection of Jupyter notebooks designed to showcase the power and versatility of the Stable Diffusion model in generating AI art and processing images.
 
 ## What is Stable Diffusion?
 
